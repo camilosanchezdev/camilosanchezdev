@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - Kotlin
 
 # Frameworks
+- .NET Core
 - Angular
 - ReactJS
 - Bootstrap
