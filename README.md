@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Camilo Sanchez
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on fun projects
-- 📫 How to reach me: my website
+- 📫 How to reach me: [my website](https://camilosanchez.net)
 
 <!--
 **camilosanchezdev/camilosanchezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,20 +26,17 @@ Here are some ideas to get you started:
 - Behance
 
 # Languages
+- HTML/CSS/SASS
 - JavaScript
-- HTML/CSS
-- PHP
+- TypeScript
 - C#
-- Kotlin
 
 # Frameworks
 - .NET Core
+- NodeJS
+- NestJS
 - Angular
 - ReactJS
+- Ionic
+- React Native
 - Bootstrap
-
-# CMS
-- WordPress
-- WooCommerce
-- Prestashop
-- Shopify
