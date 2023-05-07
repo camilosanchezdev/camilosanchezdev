@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Profiles
-- HackerRank
-- CodeWars
-- Behance
 
 # Languages
 - HTML/CSS/SASS
@@ -40,3 +36,4 @@ Here are some ideas to get you started:
 - Ionic
 - React Native
 - Bootstrap
+- Tailwind
