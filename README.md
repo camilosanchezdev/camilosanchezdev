@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on fun projects
-- 📫 How to reach me: [my website](https://camilosanchez.net)
+<!-- - 📫 How to reach me: [my website](https://camilosanchez.net) -->
 
 <!--
 **camilosanchezdev/camilosanchezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
