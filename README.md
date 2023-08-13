@@ -37,3 +37,9 @@ Here are some ideas to get you started:
 - React Native
 - Bootstrap
 - Tailwind
+
+# Contributions
+
+  Contributed to [DefinitelyTyped][1] 
+
+  [1]: https://github.com/DefinitelyTyped/DefinitelyTyped/commits?author=camilosanchezdev
